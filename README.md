@@ -16,4 +16,5 @@ But you should take so many picture to make this better or program can not be ab
 Warnings before run:
 > Edit some parts as your filesystem where the project is like "C:/Users/Username/Desktop/Door_sec_app/..."
 > If you increase the percentage more. Take care of to take pictures in brighter places.
->***HAVE FUN! On making your personal room or firm privacy***
+
+***HAVE FUN! On making your personal room or firm privacy***
